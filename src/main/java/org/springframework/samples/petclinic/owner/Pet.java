@@ -81,5 +81,8 @@ public class Pet extends NamedEntity {
 	public void addVisit(Visit visit) {
 		getVisits().add(visit);
 	}
+/**
+ * Diese Klasse wurde im Rahmen für #HSFDPMUW überprüft und ergänzt.
+ */
 
 }
